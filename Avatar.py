@@ -24,7 +24,3 @@ png_file = 'avatar_output.png'
 avatar.render_png_file(png_file)
 
 print(f"Avatar saved as {png_file}.")
-
-
-
-##hi unnati
