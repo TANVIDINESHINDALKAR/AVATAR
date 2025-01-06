@@ -26,9 +26,6 @@ avatar.render_png_file(png_file)
 print(f"Avatar saved as {png_file}.")
 
 
-<<<<<<< HEAD
 # avatar
-=======
 
 # trial git 
->>>>>>> 6cbf69da3b06bfc4bcf9fd6d0e7551e85a0dd24e
