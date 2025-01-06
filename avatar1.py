@@ -1,10 +1,3 @@
-# import cv2
-# import numpy as np
-
-# # Load images
-# face = cv2.imread("face.png", cv2.IMREAD_UNCHANGED)
-# mouth_open = cv2.imread("mouth_open.png", cv2.IMREAD_UNCHANGED)
-# mouth_closed = cv2.imread("mouth_closed.png", cv2.IMREAD_UNCHANGED)
 
 # # Resize images
 # def resize_image(image, width, height):
