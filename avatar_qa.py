@@ -18,8 +18,8 @@ tts_engine = pyttsx3.init()
 tts_engine.setProperty("rate", 200)   # Lower rate for slower speech
 
 
-mouth_open_img = cv2.imread('mouth_open.png', cv2.IMREAD_UNCHANGED)  # Mouth open
-mouth_closed_img = cv2.imread('mouth_closed.png', cv2.IMREAD_UNCHANGED)  # Mouth closed
+mouth_open_img = cv2.imread('mouth_open.png', cv2.IMREAD_UNCHANGED)  
+mouth_closed_img = cv2.imread('mouth_closed.png', cv2.IMREAD_UNCHANGED) 
 
 
 is_speaking = threading.Event()
